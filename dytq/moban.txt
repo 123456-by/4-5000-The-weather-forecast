@@ -1,0 +1,10 @@
+#将下面信息copy到模板内容里
+
+{{ur_sentence.DATA}}
+
+{{weather.DATA}}
+
+{{love_days.DATA}}
+{{days_to_birthday.DATA}}
+
+{{love_story.DATA}}
